@@ -21,8 +21,8 @@ Stand Still is a 2D platform survival game. Player have to survive from enemies 
 # Setup
 Extract .ZIP file and run .EXE file in PC or install .APK file on smartphone.
 
-1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoS5cEf0ubhPS_PRg?e=YEd3Ws">[**DOWNLOAD APK FILE**]</a> 
-2. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoS3-f3cfVMwEqr2n?e=9Uhzbo">[**DOWNLOAD ZIP FILE**]</a>
+1. Game File (For Mobile) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoS5cEf0ubhPS_PRg?e=YEd3Ws">[**DOWNLOAD APK FILE**]</a> 
+2. Game File (For PC) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoS3-f3cfVMwEqr2n?e=9Uhzbo">[**DOWNLOAD ZIP FILE**]</a>
 
 # Team Member(s)
 - Chayootpong Promlee
