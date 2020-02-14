@@ -11,7 +11,7 @@ Stand Still is a 2D platform survival game. Player have to survive from enemies 
 ![](https://i.imgur.com/5IlogXV.png)
 ![](https://i.imgur.com/yxsCc3Q.png)
 ![](https://i.imgur.com/hWvw1MD.png)
-![](https://i.imgur.com/aSjdGjs.png)
+![](https://i.imgur.com/0WicxTJ.png)
 
 # Development Tools
 - Unity Engine (Windows & Android Platform)
