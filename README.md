@@ -10,7 +10,6 @@ Stand Still is a 2D platform survival game. Player have to survive from enemies 
 ![](https://i.imgur.com/KyGCm9F.png)
 ![](https://i.imgur.com/5IlogXV.png)
 ![](https://i.imgur.com/yxsCc3Q.png)
-![](https://i.imgur.com/j56bPCq.png)
 ![](https://i.imgur.com/hWvw1MD.png)
 ![](https://i.imgur.com/aSjdGjs.png)
 
